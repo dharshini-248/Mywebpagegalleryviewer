@@ -1,1 +1,8 @@
 # Mywebpagegalleryviewer
+
+##PROGRAMMING LANGUAGES 
+HTML
+CSS
+JAVASCRIPT
+MYSQL
+PHP
